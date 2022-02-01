@@ -1,5 +1,5 @@
 # skin_classifier_init
-A simple skin disease classifier made with Fastai, ipywidgets and Voila.
+A demo skin disease classifier made with Fastai, ipywidgets and Voila.
 
 It uses a very simple interface to upload images of skin disorders and it will output its best classification and probability.
 
