@@ -18,3 +18,5 @@ At this point, it only can recognize the following skin diseases:
 11. 'urticaria'
  
  This is a very primitive trial just to see if things are working as they should
+
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/AmrAboshaisha/skin_classifier_init.git/HEAD?urlpath=%2Fvoila%2Frender%2Fskin_ds_classifier.ipynb)
